@@ -1,0 +1,26 @@
+header {
+  display:block;
+  border:3px solid red;
+  background-color:black;
+}
+
+section {
+  display:inline-block;
+  background-color:red;
+}
+nav li {
+  display:inline-block;
+}
+.nav{
+  margin:0 520px;
+  font-size:25px;
+}
+
+img {
+  display: inline-block;
+  width:709px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}

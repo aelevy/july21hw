@@ -1,0 +1,9 @@
+.exercise {
+  background-color: teal;
+  color: white;
+}
+
+.outline {
+  outline-style: dotted;
+  outline-color: green;
+}
